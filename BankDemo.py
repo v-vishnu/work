@@ -2,7 +2,7 @@
 from flask import Flask, redirect, url_for, jsonify
 import pyodbc
 
-
+# Calling Flask API
 app = Flask(__name__)
 
 
